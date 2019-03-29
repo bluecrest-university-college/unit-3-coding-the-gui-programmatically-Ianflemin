@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My other</string>
+    <string name="to_id">TO :</string>
+    <string name="convert_id">CONVERT</string>
+    <string name="Amount_id">AMOUNT</string>
+    <string-array name="currencies">
+        <item>Ghana Cedi</item>
+        <item>South korean Won</item>
+        <item>Swiss Franc</item>
+        <item>European Euro</item>
+        <item>British Pound</item>
+    </string-array>
+</resources>
